@@ -1,6 +1,11 @@
 # AI Waste Collecting Bot
 
-![AI Waste Collecting Bot](bot_image.jpg)
+
+https://github.com/Manu-N-S/AI-WASTE-COLLECTING-BOT/assets/98375679/c9f3daea-7389-41ca-bc06-68f520831129
+
+![WhatsApp Image 2024-05-09 at 11 44 22 PM](https://github.com/Manu-N-S/AI-WASTE-COLLECTING-BOT/assets/98375679/67731e77-80bb-4dae-9db2-e70854912eb1)
+
+
 
 ## Overview
 
