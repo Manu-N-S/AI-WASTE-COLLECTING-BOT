@@ -5,10 +5,14 @@
 
 
 ## DEMO VIDEO
+link:
 https://github.com/Manu-N-S/AI-WASTE-COLLECTING-BOT/assets/98375679/c9f3daea-7389-41ca-bc06-68f520831129
-![WhatsApp Image 2024-05-09 at 11 44 22 PM](https://github.com/Manu-N-S/AI-WASTE-COLLECTING-BOT/assets/98375679/67731e77-80bb-4dae-9db2-e70854912eb1)
 
+## Working Flow
+![FLow](https://github.com/Manu-N-S/AI-WASTE-COLLECTING-BOT/assets/98375679/8247179a-1f1d-4253-b48c-45dadba0737e)
 
+## Circuit Diagram
+![circuit](https://github.com/Manu-N-S/AI-WASTE-COLLECTING-BOT/assets/98375679/92a099d4-b48c-4ef3-bf6f-31504ead87a9)
 
 ## Overview
 
