@@ -1,8 +1,14 @@
 # AI Waste Collecting Bot
 
+## DEMO IMAGES:
+![one](https://github.com/Manu-N-S/AI-WASTE-COLLECTING-BOT/assets/98375679/5d439953-a27b-4b4e-b496-92699fda92fb)
 
+![two](https://github.com/Manu-N-S/AI-WASTE-COLLECTING-BOT/assets/98375679/e35802e7-3819-490d-adbf-6a2d72ec939c)
+
+![three](https://github.com/Manu-N-S/AI-WASTE-COLLECTING-BOT/assets/98375679/1d7030d8-520e-4673-bfde-f804f8a8d752)
+
+## DEMO VIDEO
 https://github.com/Manu-N-S/AI-WASTE-COLLECTING-BOT/assets/98375679/c9f3daea-7389-41ca-bc06-68f520831129
-
 ![WhatsApp Image 2024-05-09 at 11 44 22 PM](https://github.com/Manu-N-S/AI-WASTE-COLLECTING-BOT/assets/98375679/67731e77-80bb-4dae-9db2-e70854912eb1)
 
 
